@@ -2,7 +2,11 @@
 @tailwind components;
 @tailwind utilities;
 
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700&family=Source+Sans+Pro:wght@200;300;400;600;900&display=swap');
+
 #root {
     background: #f2f7ff;
     height: 100vh;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
 }
